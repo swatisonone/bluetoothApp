@@ -1,0 +1,1 @@
+C:\Users\SHREE\AndroidStudioProjects\bluetoothApp - Copy\sdk\build\intermediates\cxx\RelWithDebInfo\2x1s4c4o\obj\x86

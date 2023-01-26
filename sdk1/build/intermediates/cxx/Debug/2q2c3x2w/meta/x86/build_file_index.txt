@@ -1,0 +1,1 @@
+C:\Users\SHREE\AndroidStudioProjects\bluetoothApp - Copy\sdk1\libcxx_helper\CMakeLists.txt

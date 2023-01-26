@@ -1,0 +1,1 @@
+C:\Users\SHREE\AndroidStudioProjects\bluetoothApp\sdk\build\intermediates\cxx\Debug\41195s4v\obj\arm64-v8a

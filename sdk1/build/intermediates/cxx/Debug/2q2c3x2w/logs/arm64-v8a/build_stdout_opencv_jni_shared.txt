@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\SHREE\AndroidStudioProjects\bluetoothApp - Copy\sdk1\.cxx\Debug\2q2c3x2w\arm64-v8a'
+ninja: no work to do.
